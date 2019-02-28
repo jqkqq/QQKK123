@@ -91,9 +91,4 @@ DerivedData
 Pods
 !Podfile
 !Podfile.lock
-THSRC-MTS/THSRC-MobileTicketingServices/Controller/EnterProfileViewController_BACKUP_36747.swift
-THSRC-MTS/THSRC-MobileTicketingServices/Controller/EnterProfileViewController_BASE_36747.swift
-THSRC-MTS/THSRC-MobileTicketingServices/Controller/EnterProfileViewController_LOCAL_36747.swift
-THSRC-MTS/THSRC-MobileTicketingServices/Controller/EnterProfileViewController_REMOTE_36747.swift
-THSRC-MTS/THSRC-MobileTicketingServices/BridgingHeader.h
-THSRC-MTS/THSRC-MobileTicketingServices/GoogleService-Info.plist
+
