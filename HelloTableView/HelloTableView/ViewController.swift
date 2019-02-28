@@ -36,10 +36,10 @@ extension ViewController: UITableViewDataSource & UITableViewDelegate {
             as? MyTableViewCell else {
             fatalError()
         }
-//        cell.data = cellData[indexPath.row]
-//        cell.switchChangedClosure = { [unowned self] isOpen in
-//            self.cellData[indexPath.row].isOpenSwitch = isOpen
-//        }
+        cell.data = cellData[indexPath.row]
+        cell.switchChangedClosure = { [unowned self] isOpen in
+            self.cellData[indexPath.row].isOpenSwitch = isOpen
+        }
         return cell
     }
     
